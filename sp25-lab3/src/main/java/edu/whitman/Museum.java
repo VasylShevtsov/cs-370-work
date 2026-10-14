@@ -17,7 +17,7 @@ public class Museum {
     }
 
     public void addTicket(Ticket ticket) {
-        tickets.put(ticket.getId(), ticket)
+        tickets.put(ticket.getId(), ticket);
     }
 
     public void removeTicket(int id) {
