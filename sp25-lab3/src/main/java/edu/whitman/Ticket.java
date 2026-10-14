@@ -6,15 +6,26 @@ public class Ticket {
     private String seatNumber;
     private double price;
 
+    public Ticket(int id, String type, String seatNumber, double price) {
+        this.id = id;
+        this.type = type;
+        this.seatNumber = seatNumber;
+        this.price = price;
+    }
+
     public int getId() {
+        return id;
     }
 
     public String getType() {
+        return type;
     }
 
     public String getSeatNumber() {
+        return seatNumber;
     }
 
-    public double getPrice() {
+    public double getPrice() 
+    return price;
     }
 }
