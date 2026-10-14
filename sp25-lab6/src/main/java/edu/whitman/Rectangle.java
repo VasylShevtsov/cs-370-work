@@ -1,6 +1,6 @@
 package edu.whitman;
 
-private class Rectangle extends Shape {
+public class Rectangle extends Shape {
     private final double height;
     private final double width;
 
