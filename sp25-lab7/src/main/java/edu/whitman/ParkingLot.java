@@ -1,6 +1,9 @@
 package edu.whitman;
 
-public interface ParkingLot {
+import java.util.ArrayList;
+import java.util.List;
+
+public interface ParkingLot implements IParkingLot {
     // Adds a car to the parking lot
     void addCar(ICar car);
 
