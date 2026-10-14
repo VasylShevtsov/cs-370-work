@@ -25,7 +25,7 @@ public class Ticket {
         return seatNumber;
     }
 
-    public double getPrice() 
+    public double getPrice() {
     return price;
     }
 }
