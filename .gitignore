@@ -1,0 +1,10 @@
+# Ignore everything at the repository root
+/*
+
+# Allow this file and lab 3
+!/.gitignore
+!/sp25-lab3/
+
+# Ignore build output and macOS metadata
+**/target/
+**/.DS_Store
