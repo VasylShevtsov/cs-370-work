@@ -4,6 +4,7 @@
 # Allow this file and lab 3
 !/.gitignore
 !/sp25-lab3/
+!/sp25-lab4/
 
 # Ignore build output and macOS metadata
 **/target/
