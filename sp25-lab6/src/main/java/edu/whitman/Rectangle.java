@@ -8,4 +8,9 @@ private class Rectangle extends Shape {
         this.height = height;
         this.width = width;
     }
+
+    @Override 
+    public double calculateArea() {
+        return height * width;
+    }
 }
