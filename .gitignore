@@ -11,6 +11,7 @@
 !/sp25-lab9/
 !/sp25-lab10/
 !/sp25-lab11/
+!/sp25-lab12/
 
 # Ignore build output and macOS metadata
 **/target/
