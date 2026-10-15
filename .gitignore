@@ -8,6 +8,7 @@
 !/sp25-lab6/
 !/sp25-lab7/
 !/sp25-lab8/
+!/sp25-lab9/
 
 # Ignore build output and macOS metadata
 **/target/
