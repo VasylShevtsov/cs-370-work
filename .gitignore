@@ -1,8 +1,9 @@
 # Ignore everything at the repository root
 /*
 
-# Allow this file and lab 3
+# Allow this file, GitHub workflows, and lab directories
 !/.gitignore
+!/.github/
 !/sp25-lab3/
 !/sp25-lab4/
 !/sp25-lab6/
