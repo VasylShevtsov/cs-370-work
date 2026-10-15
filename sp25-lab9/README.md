@@ -1,6 +1,6 @@
 # StudyDock
 
-StudyDock is an app idea for problem #1: helping students manage assignments and deadlines in one place.
+StudyDock is an app wiefram for problem #1 "Managing study tasks, assignments, and deadlines in one place"
 
 ## Features
 
@@ -27,6 +27,9 @@ StudyDock is an app idea for problem #1: helping students manage assignments and
 
 ## Figma
 
-[View the wireframes](https://www.figma.com/design/NnyYoB4RuIYftSUr27L96w) · [Try the prototype](https://www.figma.com/proto/NnyYoB4RuIYftSUr27L96w?node-id=3-360&page-id=0%3A1&starting-point-node-id=3%3A360&scaling=min-zoom&content-scaling=fixed)
+[Try the prototype](https://www.figma.com/proto/NnyYoB4RuIYftSUr27L96w?node-id=3-360&page-id=0%3A1&starting-point-node-id=3%3A360&scaling=min-zoom&content-scaling=fixed)
 
-The four screens are connected with Navigate to links, all tested in Present mode. This prototype uses sample data to demonstrate navigation.
+[View the wireframes](https://www.figma.com/design/NnyYoB4RuIYftSUr27L96w)
+
+
+The four screens are connected with Navigate to links, all tested in Present mode.
